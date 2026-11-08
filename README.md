@@ -1,0 +1,1 @@
+Proses analisis data dilakukan menggunakan Google Colab dengan bahasa pemrograman Python. Notebook mencakup tahapan data preprocessing dan cleaning, descriptive analytics, diagnostic analytics, predictive analytics menggunakan Random Forest Regression, serta prescriptive analytics melalui segmentasi produk menggunakan K-Means dan penyusunan rekomendasi bisnis.
